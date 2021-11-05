@@ -18,6 +18,7 @@ console.log(euroDun)
 //camelCasing
 let konutKredileri = ["Deneme1","Deneme2","Deneme3"] 
 
+
 console.log("<ul>")
 for (let i = 0; i < konutKredileri.length; i++) {
     console.log("<li>"+ konutKredileri[i]+"</li>")
@@ -26,3 +27,5 @@ for (let i = 0; i < konutKredileri.length; i++) {
 console.log("</ul>")
 
 console.log(konutKredileri)
+
+
